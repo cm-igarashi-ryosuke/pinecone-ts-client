@@ -1,10 +1,10 @@
 {
-  "name": "@pinecone-database/pinecone",
+  "name": "@cm-igarashi-ryosuke/pinecone",
   "version": "0.0.12",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pinecone-io/pinecone-ts-client"
+    "url": "https://github.com/cm-igarashi-ryosuke/pinecone-ts-client"
   },
   "author": "Roie Schwaber-Cohen",
   "license": "MIT",
